@@ -1,71 +1,28 @@
-<h1 align="center">Pinwheel Tailwind</h1>
+# Play - Free Tailwind CSS Template for Startup, Apps and SaaS
 
-<p align="center">Pinwheel is a highly customizable multipurpose SaaS theme built with TailwindCSS.</p>
+Play is an open-source and free Tailwind CSS template co-created by TailGrids and UIdeck. This template specially crafted for SaaS, startup, business and software website.
+Play crafted in a way that you can use with almost all sort of web project. This is Tailwind CSS template built using [TailGrids](https://tailgrids.com/) components.
 
-<h2 align="center">
-<a target="_blank" href="https://demo.themefisher.com/pinwheel-tailwind/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="">Page Speed (95+)🚀</a>
-</h2>
+### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
-![pinwheel](https://demo.themefisher.com/thumbnails/pinwheel.png)
+### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
 
-## 📌Key Features
+### [⬇️ Download Now](https://links.tailgrids.com/play-download)
 
-- 🔢 95+ Google Page Speed score
-- 🎨 Easy to customize
-- 🌐 Made with HTML5 and Tailwind CSS v3.0
-- 📦 Modular JS & CSS Code
-- ⚙️ Netlify & Vercel setting pre-configured
-- ❌ No jQuery. Only Vanilla JavaScript
-- 📂 Clean folder structure
-- ✨ Clean code
-- 🛠️ Simple and easy development environment setup
-- 🌐 Compatible with all modern browsers
-- 🆓 Free Google fonts
-- 🔆 Font Awesome icons
-- 🔍 SEO friendly
+[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
 
+## 📃 License
 
+Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
 
-## 🚀 Getting Started
+## 💙 Support
 
-### 📦 Dependency
+You can always support this project by [Starring🌟 This Repository](https://github.com/tailgrids/play-tailwind)
+and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
 
-- node v18+
-- npm v9.5+
-- gulp v4+
-
-### 👉 Package Installation
-
-```
-npm install
-```
-
-### 👉 Development Command
-
-```
-npm run dev
-```
-
-### 👉 Build Command
-
-```
-npm run build
-```
-
-<!-- reporting issue -->
-
-## 🐞 Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/pinwheel-tailwind/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/pinwheel-tailwind/issues).
-
-<!-- licence -->
-
-## 📝 License
-
-Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com/)
-
-**Code License:** Released under the [MIT](https://github.com./themefisher/pinwheel-tailwind/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-# Europa-Website
+### Update Logs: 2.0 - Nov 2023
+- Design refresh
+- New marketing section
+- Dark mode support
+- Code and performance optimization
+- Updated dependencies
